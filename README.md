@@ -28,3 +28,10 @@ This vault is produced through an active, iterative co-evolutionary loop between
                               │
                               ▼
 [Refined Baseline] ──► Expanded Articulation & Higher-Order Inquiry
+```
+
+1. Origin (Human): Every core concept, structural hypothesis, mathematical intuition, and domain inquiry originates strictly from human experience and cognitive architecture.
+
+2. Catalyst (AI): AI operates as a high-bandwidth structural engine—applying formal academic rigor, organizing dense data streams, and rendering ideas into clear, modular artifacts.
+
+3. Integration (Human): The resulting artifacts are re-studied, tested, and integrated by the operator. This feedback loop actively refines articulation, builds new associative connections, and drives the next cycle of creation.
