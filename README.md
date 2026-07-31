@@ -1,16 +1,30 @@
-## Hi there 👋
+# Matthew | Quantitative Systems & Cognitive Architecture
 
-<!--
-**MatthewDylanThomas/MatthewDylanThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Navigating complex biological, computational, and cognitive systems through mathematical modeling, systems pharmacology, and synthetic epistemology.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📐 Core Baseline & Telemetry
+
+* **Education:** B.A. in Mathematics & Computer Science, Amherst College.
+* **Operational Focus:** Quantitative Systems Pharmacology (QSP), Neuro-Kinetics, Cognitive Architecture, and Emergent Software Systems.
+* **Driving Vectors:** Curiosity, spatial navigation of complex domains, and radical structural understanding.
+* **Ethical Horizon:** **Syntropy & Human Flourishing** — building architectures that reduce systemic noise, preserve individual agency, prevent information distortion, and expand capacity.
+
+---
+
+## 🔄 Human-AI Symbiotic Workflow
+
+This vault is produced through an active, iterative co-evolutionary loop between human executive direction and machine synthesis:
+
+```text
+[Human Cognition] ──► Raw Telemetry, Direct Insight & Architecture
+                              │
+                              ▼
+[AI Catalyst]    ──► Cross-Domain Rigor, Condensation & Formatting
+                              │
+                              ▼
+[Synthesized Output] ──► Re-absorbed, Audited & Integrated by Operator
+                              │
+                              ▼
+[Refined Baseline] ──► Expanded Articulation & Higher-Order Inquiry
