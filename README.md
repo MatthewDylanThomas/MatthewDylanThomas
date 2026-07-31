@@ -76,3 +76,11 @@ Applied game theory, unbuffered communication protocols, status-game telemetry, 
 ### 🔬 Applied Domain Frameworks
 * **Pharmacology & Kinetics:** Quantitative Systems Pharmacology (QSP), Pharmacokinetics (PK/PD), Non-Linear Receptor Dynamics
 * **Cognitive Systems:** Synthetic Epistemology, Dynamical Systems Simulation, Cognitive Architecture
+
+## 🧠 Operating Philosophy: Problem-First Domain Acquisition
+
+Rather than relying on syllabus-driven academic sequences, domain knowledge in this repository is acquired **necessity-first**. When a complex system bottleneck, operational constraint, or high-dimensional problem emerges, cross-disciplinary research is deployed to map and resolve it.
+
+* **Targeted Pull vs. Passive Push:** Abstract theory (stochastic modeling, real analysis, functional paradigms, receptor kinetics) is pulled on-demand to solve immediate structural problems, rather than stored passively for future use.
+* **Rapid Domain Ingestion:** Combining formal quantitative foundations (Math/CS @ Amherst) with necessity-driven focus enables rapid, associative acquisition of specialized fields like Quantitative Systems Pharmacology and Neuro-Kinetics.
+* **Functional Fidelity:** Models are validated by their predictive and operational utility in real-world system states, prioritizing mechanistic accuracy over rigid disciplinary silos.
